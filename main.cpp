@@ -1,6 +1,7 @@
 #include <iostream>
 #include "sdt.h"
 
+// Function is training.
 int main() {
     int a, b;
     cout << "Enter A and B: ";
